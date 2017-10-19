@@ -2,4 +2,4 @@
 
 A text file containing 99k English words.
 
-Copied from ubuntu-16.04 /usr/share/dict
+Copied from /usr/share/dict directory of ubuntu-16.04.
